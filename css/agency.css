@@ -29,7 +29,7 @@ a.active {
   outline: none;
 }
 a {
-  color: #94b8b8;
+  color: #527a7a;
 }
 a:hover,
 a:focus,
@@ -726,7 +726,7 @@ ul.social-buttons li a:active {
 }
 ::selection {
   text-shadow: none;
-  background: #94b8b8;
+  background: #527a7a;
 }
 img::selection {
   background: transparent;
